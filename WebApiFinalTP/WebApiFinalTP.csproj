@@ -14,10 +14,18 @@
     <None Remove="Data\" />
     <None Remove="Data\Entities\" />
     <None Remove="Data\Models\" />
+    <None Remove="MIgrations\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Implementations\" />
+    <None Remove="Services\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Data\Entities\" />
     <Folder Include="Data\Models\" />
+    <Folder Include="MIgrations\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Implementations\" />
+    <Folder Include="Services\Interfaces\" />
   </ItemGroup>
 </Project>
